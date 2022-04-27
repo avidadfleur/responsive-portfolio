@@ -3,13 +3,13 @@
 <h1 align="center">Portfolio Website</h1>
 
 <div align="center">
-   Responsive Portfolio Website Using Html, Css and JavaScript. It contains a Header, Home, About, Skills, Qualification, Portfolio, Contact and Footer.
+   Responsive Portfolio Website Using Html, Css and JavaScript. It contains a Header, Home, About, Skills, Portfolio, Contact and Footer.
   Special acknowledgment to @bedimcode (https://github.com/bedimcode).
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://avidadfleur.github.io/">
+    <a href="https://avidadfleur.github.io/responsive-portfolio">
       Website
     </a>
   </h3>
@@ -29,7 +29,9 @@
 
 ## Overview! 
 
-![presentation](https://user-images.githubusercontent.com/86981532/165186018-0ae780b1-7886-4874-90c7-e91f0b5a188d.png)
+![Screen Shot 2022-04-26 at 20 35 19](https://user-images.githubusercontent.com/86981532/165428268-1943c250-97aa-4d76-b3ae-d4825bbe2360.png)
+![Screen Shot 2022-04-26 at 20 35 32](https://user-images.githubusercontent.com/86981532/165428292-4b5b4287-3637-4cfa-9b7c-3e85331f71a7.png)
+
 
 ### Built With
 
@@ -38,13 +40,12 @@
 - HTML
 - CSS
 - JavaScript
-- [Swiper JS](https://swiperjs.com/)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This portfolio website has a responsive design, dark-light and theme and it uses a swiper script for the portfolio section.
+This portfolio website has a responsive design, dark-light and theme and a navigation menu.
 
 ## Acknowledgements
 
